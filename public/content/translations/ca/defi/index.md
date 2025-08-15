@@ -47,7 +47,7 @@ Una de les millors maneres de veure el potencial de DeFi és entendre els proble
 | Els mercats estan sempre oberts.                                                                                         | Els mercats tanquen perquè els empleats necessiten descansar.                                                                               |
 | Està construït de forma transparent: qualsevol pot mirar les dades d'un producte i inspeccionar com funciona el sistema. | Les institucions financeres són llibres tancats: no podeu veure el seu historial de préstecs, un informe dels seus actius sota gestió, etc. |
 
-<ButtonLink href="/dapps/?category=finance#explore">
+<ButtonLink href="/apps/?category=finance#explore">
   Exploreu aplicacions DeFi
 </ButtonLink>
 
@@ -65,7 +65,7 @@ Sona estrany... «per què he de voler programar els meus diners»? En tot cas, 
 
 <InfoBanner shouldSpaceBetween emoji=":eyes:">
   <div>Exploreu els nostres suggeriments d'aplicacions DeFi per provar-les, si sou novells a Ethereum.</div>
-  <ButtonLink href="/dapps/?category=finance#explore">
+  <ButtonLink href="/apps/?category=finance#explore">
     Exploreu aplicacions DeFi
   </ButtonLink>
 </InfoBanner>
@@ -92,7 +92,7 @@ Hi ha una alternativa descentralitzada a la majoria dels serveis financers. Per�
 
 Com a cadena de blocs (o «blockchain»), Ethereum està dissenyat per enviar transaccions de forma segura i global. Igual que Bitcoin, Ethereum converteix l'acte d'enviar diners arreu del món en una cosa tan fàcil com enviar un correu electrònic. Només heu d'introduir el [el nom ENS](/nft/#nft-domains) del destinatari (com josep.eth) o l'adreça de la seva cartera i el vostre pagament li arribarà en qüestió de minuts (normalment). Per a enviar o rebre pagaments, necessiteu una [cartera](/wallets/).
 
-<ButtonLink href="/dapps/?category=finance#explore">
+<ButtonLink href="/apps/?category=finance#explore">
   Exploreu dapps de pagament
 </ButtonLink>
 
@@ -123,7 +123,7 @@ Obtenir diners prestats de proveïdors descentralitzats té dues varietats princ
 - Persona-persona, és a dir el prestatari obtindrà el préstec directament d'un prestador específic.
 - Basat en grups, on els prestadors proveeixen els fons (liquiditat) a un grup d'on els prestataris poden obtenir els préstecs.
 
-<ButtonLink href="/dapps/?category=finance#explore">
+<ButtonLink href="/apps/?category=finance#explore">
   Exploreu dapps per obtenir préstecs
 </ButtonLink>
 
@@ -168,7 +168,7 @@ Si la disponibilitat del mercat B cau de sobte i l'usuari no pot comprar prou ac
 
 Per a poder dur a terme l'exemple anterior en les finances tradicionals, necessitaríeu una quantitat enorme de diners. Aquest tipus d'estratègies de negoci només estan disponibles per aquells que disposin d'una gran riquesa. Els préstecs ràpids són un exemple d'un futur on tenir diners no és necessàriament un prerequisit per a guanyar diners.
 
-[Més sobre préstecs ràpids](https://aave.com/flash-loans/)
+[Més sobre préstecs ràpids](https://aave.com/docs/concepts/flash-loans/)
 
 <Divider />
 
@@ -183,7 +183,7 @@ Podeu guanyar interessos per les vostres criptomonedes fent préstecs i veure co
 - Els vostres aDai s'incrementaran en base als tipus d'interès i podreu veure créixer el vostre saldo a la vostra cartera. En funció del tipus d'interès, el saldo de la vostra cartera serà de 100.1234 al cap d'uns pocs dies o, fins i tot, hores!
 - Podeu retirar una quantitat de Dai normal, igual a la del vostre saldo, en qualsevol moment.
 
-<ButtonLink href="/dapps/?category=finance#explore">
+<ButtonLink href="/apps/?category=finance#explore">
   Veure dApps de préstecs
 </ButtonLink>
 
@@ -211,7 +211,7 @@ Hi ha milers de tókens a Ethereum. Els mercats d'intercanvi descentralitzats (D
 
 Per exemple, si voleu fer servir la loteria sense pèrdues PoolTogether (descrita més amunt), necessitareu un token com Dai o USDC. Aquests DEX us permeten intercanviar els vostres ETH per aquets tókens i recuperar els ETH quan hàgiu acabat.
 
-<ButtonLink href="/dapps/?category=finance#explore">
+<ButtonLink href="/apps/?category=finance#explore">
   Veure intercanvi de tókens
 </ButtonLink>
 
@@ -223,7 +223,7 @@ Hi ha opcions més avançades per a qui vulgui una mica més de control sobre le
 
 Quan feu servir un mercat (o casa de canvi) centralitzat heu de dipositar-hi els vostres actius abans d'executar la transacció i confiar que els vigilaran per tu. Mentre els vostres actius estan dipositats estan en risc, ja que els mercats centralitzats són objectius atractius per als hackers.
 
-<ButtonLink href="/dapps/?category=finance#explore">
+<ButtonLink href="/apps/?category=finance#explore">
   Veure dapps de comerç
 </ButtonLink>
 
@@ -235,7 +235,7 @@ Hi ha productes de gestió de fons a Ethereum que poden fer créixer la vostra c
 
 Un bon exemple és el [fons DeFi Pulse Index (DPI)](https://defipulse.com/blog/defi-pulse-index/). Aquest és un fons que s'ajusta automàticament per assegurar que la vostra cartera sempre inclou [els tókens DeFi més rellevants en funció de la seva capitalització](https://www.coingecko.com/en/defi). Mai n'heu de gestionar cap detall i podeu retirar actius del fons en qualsevol moment.
 
-<ButtonLink href="/dapps/?category=finance#explore">
+<ButtonLink href="/apps/?category=finance#explore">
   Veure dapps d'inversió
 </ButtonLink>
 
@@ -249,7 +249,7 @@ Ethereum és una plataforma ideal per al crowfunding:
 - És transparent, de manera que els receptors dels fons poden demostrar la quantitat de diners que han aixecat. Fins i tot podeu seguir el rastre de com els fons s'apliquen més endavant.
 - Els receptors dels fons poden definir el retorn immediat dels diners si, per exemple, hi ha una data límit per aconseguir una quantitat mínima.
 
-<ButtonLink href="/dapps/?category=finance#explore">
+<ButtonLink href="/apps/?category=finance#explore">
   Veure dapps de crowfunding
 </ButtonLink>
 
@@ -276,7 +276,7 @@ Les assegurances descentralitzades pretenen ser més econòmiques, ràpides a co
 
 Els productes Ethereum, com qualsevol software, poden tenir errors de codi i ser atacats. Així que, en aquests moments, moltes de les assegurances en aquest sector se centren en protegir els usuaris de la possible pèrdua dels seus fons. Tot i això hi ha projectes que estan treballant per donar cobertura a qualsevol accident habitual. Un bon exemple n'és la cobertura d'Etherisc Crop que pretén [protegir petits agricultors a Kènia de les pèrdues per sequeres i inundacions](https://blog.etherisc.com/etherisc-teams-up-with-chainlink-to-deliver-crop-insurance-in-kenya-137e433c29dc). Les assegurances descentralitzades poden proporcionar cobertures més econòmiques als agricultors que, sovint, no poden permetre's assegurances tradicionals.
 
-<ButtonLink href="/dapps/?category=finance#explore">
+<ButtonLink href="/apps/?category=finance#explore">
   Veure dapps d'assegurances
 </ButtonLink>
 
@@ -286,7 +286,7 @@ Els productes Ethereum, com qualsevol software, poden tenir errors de codi i ser
 
 Amb tantes coses alhora, necessitareu una forma per fer un seguiment de totes les inversions, préstecs i compra-vendes. Hi ha una munió de productes que us permeten coordinar la vostra activitat DeFi des d'un mateix lloc. Aquesta és la bellesa de l'arquitectura oberta de les DeFi. Equips de desenvolupadors fan interfícies on no només podeu veure els saldos de tots els vostres productes, sinó que també podeu utilitzar les seves funcions. Això us pot ser útil alhora que continueu l'exploració de les DeFi.
 
-<ButtonLink href="/dapps/?category=finance#explore">
+<ButtonLink href="/apps/?category=finance#explore">
   Veure les dapps de gestió de carteres
 </ButtonLink>
 
@@ -318,7 +318,7 @@ Podeu pensar en les DeFi com en capes:
 1. La cadena de blocs («blockchain»): Ethereum conté l'historial de transaccions i l'estat dels comptes.
 2. Els actius: [ETH](/eth/) i la resta de tókens (divises).
 3. Els protocols\_ [contractes intel·ligents](/glossary/#smart-contract) que proporcionen les funcionalitats, per exemple un servei que permeti el préstec d'actius de forma descentralitzada.
-4. [Les aplicacions](/dapps/): els productes que fem servir per a gestionar i accedir als protocols.
+4. [Les aplicacions](/apps/): els productes que fem servir per a gestionar i accedir als protocols.
 
 ## Construir les DeFi {#build-defi}
 
