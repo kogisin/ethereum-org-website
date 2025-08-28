@@ -462,12 +462,13 @@ export type CommonHeroProps<
    * given page from the hero.
    *
    * The hero can render no buttons or up to and no more than two.
+   * Can accept either button prop objects or React elements directly.
    */
-  buttons?: [HeroButtonProps, HeroButtonProps?]
+  buttons?: [HeroButtonProps | ReactElement, (HeroButtonProps | ReactElement)?]
   /**
    * The primary title of the page
    */
-  title: string
+  title?: string
   /**
    * A tag name for the page
    */
